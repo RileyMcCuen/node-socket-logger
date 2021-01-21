@@ -1,0 +1,19 @@
+{
+  "name": "socket-logger",
+  "version": "0.1.0",
+  "description": "Lib to use in node applications that use the socket-logger repo for logging. Socket-logger repo here: https://github.com/RileyMcCuen/socket-logger",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Riley McCuen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RileyMcCuen/socket-logger.git"
+  },
+  "dependencies": {
+    "ws": "^7.4.2"
+  }
+}
